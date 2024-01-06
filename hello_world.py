@@ -1,6 +1,6 @@
 #Basic fucntion for printing hello world with specific name greeting
 def hello_world(name):
-    print("Hello world, my name is:", name)
+    print(f"Hello world, my name is: {name}")
 
 
 if __name__ == "__main__":
